@@ -8,6 +8,7 @@ The research lab Noachlly Global Pharmacetics Drugs & Medicine Inc. needs a prot
 visualizer to make the world understand its researches. Noachlly Global Pharmacetics Drugs
 & Medicine Inc. works with the mondial protein’s database : the famous PDB (Protein Data
 Bank).
+As a project we have to visualize the protiens from the database.
 
 ## Setup
 
