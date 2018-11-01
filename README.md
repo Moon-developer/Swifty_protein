@@ -22,5 +22,5 @@ open Proteins.xcodeproj
 
 ![Marks](https://img.shields.io/badge/marks-114%25-brightgreen.svg)
 ![Marks](https://img.shields.io/badge/progress-completed-green.svg)
-![Marks](https://img.shields.io/badge/language-swift 4-blue.svg)
+![Marks](https://img.shields.io/badge/language-swift%204-blue.svg)
 ![Marks](https://img.shields.io/badge/xcode-9.4.1-orange.svg)
